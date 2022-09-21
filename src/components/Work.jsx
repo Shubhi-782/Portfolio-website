@@ -30,12 +30,12 @@ const Work = () => {
                 Tab section
               </span>
               <div className=" pt-8 text-center">
-                <a href="">
+                <a href="https://github.com/Shubhi-782/Tab-section">
                   <button className=" text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="">
+                <a href="https://github.com/Shubhi-782/Tab-section">
                   <button className=" text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -52,12 +52,12 @@ const Work = () => {
                 Digital clock
               </span>
               <div className=" pt-8 text-center">
-                <a href="">
+                <a href="https://github.com/Shubhi-782/projects_Digital-clock/tree/master">
                   <button className=" text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="">
+                <a href="https://github.com/Shubhi-782/projects_Digital-clock/tree/master">
                   <button className=" text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -74,12 +74,12 @@ const Work = () => {
                 Heart trail animation
               </span>
               <div className=" pt-8 text-center">
-                <a href="">
+                <a href="https://github.com/Shubhi-782/Heart-trail-aimation">
                   <button className=" text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="">
+                <a href="https://github.com/Shubhi-782/Heart-trail-aimation">
                   <button className=" text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -96,12 +96,12 @@ const Work = () => {
                 Spotify page
               </span>
               <div className=" pt-8 text-center">
-                <a href="">
+                <a href="https://github.com/Shubhi-782/spotify-page">
                   <button className=" text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="">
+                <a href="https://github.com/Shubhi-782/spotify-page">
                   <button className=" text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -118,12 +118,12 @@ const Work = () => {
                 Real time character count
               </span>
               <div className=" pt-8 text-center">
-                <a href="">
+                <a href="https://github.com/Shubhi-782/Real-time-chracter-counter">
                   <button className=" text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="">
+                <a href="https://github.com/Shubhi-782/Real-time-chracter-counter">
                   <button className=" text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -140,12 +140,12 @@ const Work = () => {
                 Blog site
               </span>
               <div className=" pt-8 text-center">
-                <a href="">
+                <a href="https://github.com/Shubhi-782/Blog-page">
                   <button className=" text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="">
+                <a href="https://github.com/Shubhi-782/Blog-page">
                   <button className=" text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>

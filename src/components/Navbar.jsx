@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes, FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
-import { BsFillPersonLinesFill } from "react-icons/bs";
 import { Link } from "react-scroll";
 import Logo from "../assets/logo.png";
 
@@ -74,25 +73,25 @@ const Navbar = () => {
        <ul>
         <li className=" w-[160px] h-[50px] flex justify-between items-center ml-[-100px] hover:ml-[10px] duration-300 bg-blue-600">
         <a className="flex justify-between items-center w-full text-gray-300"
-         link="/">
+         href="https://www.linkedin.com/in/kumar-shubham-98b11a63/">
           Linkedin <FaLinkedin size={30}/>
         </a>
         </li>
         <li className=" w-[160px] h-[50px] flex justify-between items-center ml-[-100px] hover:ml-[10px] duration-300 bg-[#51557E]">
         <a className="flex justify-between items-center w-full text-gray-300"
-         link="/">
+         href="https://github.com/Shubhi-782">
           GitHub <FaGithub size={30}/>
         </a>
         </li>
         <li className=" w-[160px] h-[50px] flex justify-between items-center ml-[-100px] hover:ml-[10px] duration-300 bg-[#809A6F]">
         <a className="flex justify-between items-center w-full text-gray-300"
-         link="/">
+         href="https://skshubhamkumar14@gmail.com">
           Email <HiOutlineMail size={30}/>
         </a>
         </li>
         <li className=" w-[160px] h-[50px] flex justify-between items-center ml-[-100px] hover:ml-[10px] duration-300 bg-[#8a3ab9]">
         <a className="flex justify-between items-center w-full text-gray-300"
-         link="/">
+         href="https://www.instagram.com/i_am_shubhi_/">
           Instagram <FaInstagram size={30}/>
         </a>
         </li>
